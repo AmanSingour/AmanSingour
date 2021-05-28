@@ -19,8 +19,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/amansingour" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/twitter.svg" alt="amansingour" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/aman-singour" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="aman-singour" height="30" width="40" /></a>
+<a href="https://twitter.com/amansingour" target="blank"><img align="center" src="https://abs.twimg.com/responsive-web/client-web/icon-ios.b1fc7275.png" alt="amansingour" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/aman-singour" target="blank"><img align="center" src="https://static-exp1.licdn.com/sc/h/2if24wp7oqlodqdlgei1n1520" alt="aman-singour" height="30" width="40" /></a>
 <a href="https://instagram.com/creatiuman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/instagram.svg" alt="creatiuman" height="30" width="40" /></a>
 <a href="https://www.behance.net/amansingour" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/behance.svg" alt="amansingour" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/amansingour15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/hackerrank.svg" alt="amansingour15" height="30" width="40" /></a>
